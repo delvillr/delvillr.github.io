@@ -12,12 +12,12 @@ header {
     float: left;
     padding: none;
     margin: none;
-    height: 10%;
-    width: 10%;
+    height: auto;
+    width: 30%;
 }
 
 #logo img{
-    width: 10%;
+    width: 60%;
     float: left;
     padding: 0px 0px;
 }
