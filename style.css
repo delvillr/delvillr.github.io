@@ -9,10 +9,10 @@ header {
 }
 
 #logo{
-    float: left;
+    float: left center;
     padding: none;
     margin: none;
-    height: 10%;
+    height: auto;
     width: 20%;
 }
 
