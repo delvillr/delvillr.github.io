@@ -57,6 +57,6 @@ header {
 
 #menu li:hover a, #menu li span{
     color: #e6beae;
-    border-left: 1px solid #e6beae;
+    border-bottom: 1px solid #e6beae;
     text-decoration: none;
 }
