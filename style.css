@@ -1,6 +1,6 @@
 header {
     overflow: hidden;
-    background-color: #eee4e1;
+    background: #eee4e1;
 }
 
 #top-header{
@@ -12,12 +12,12 @@ header {
     float: left;
     padding: none;
     margin: none;
-    height: 60px;
+    height: 30%;
     width: 30%;
 }
 
 #logo img{
-    width: 30%;
+    width: 60%;
     float: left;
     padding: 10px 0px;
 }
